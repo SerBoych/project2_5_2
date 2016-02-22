@@ -10,5 +10,6 @@ public class Main {
 
         int1.printArray();
         int2.printArray();
+        System.out.println(12);
     }
 }
